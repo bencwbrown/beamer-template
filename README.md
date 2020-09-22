@@ -2,7 +2,7 @@
 
 Because all of the predefined beamer themes are overloaded with mostly useless stuff I decided to make my own minimalistic beamer theme.
 
-## Requiremenets
+## Requirements
 
 Tools:
 
