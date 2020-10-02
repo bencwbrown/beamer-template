@@ -16,6 +16,10 @@ Fonts:
 - Linux Libertine
 - Consolas
 
+To install Linux Biolinum and Linux Libertine using Homebrew, run the commands:
+
+`brew cask install font-linux-libertine font-linux-biolinum`.
+
 Packages:
 
 - see `content/misc/preamble.tex`
